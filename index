@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    
+    <title>UH-DMI-HTML-CSS</title>
+    
+    <link rel="stylesheet" href="uh.css">
+  </head>
+  <body>
+	<div class="header1">
+        <marquee width="60%" direction="right" height="100px">
+        <p>Pembuatan Web Untuk Penilaian DMI</p>
+        </marquee>
+    </div>
+	<div class="header2">
+        <div class="header-logo1">OK</div>
+		
+		<div class="header-logo">
+			<img src="https://drive.google.com/uc?export=view&id=10OaKCVKhT2_7tohJZprg7ExLpq-XUTuA" width="80" height="80"></div>
+		
+		
+		<div class="header-list">
+		 <ul>
+		   <li> Produk </li>
+		   <li> Terlaris </li>
+		   <li> Termurah </li>
+		   <li> Customer </li>
+		 </ul>
+		</div>
+		
+	</div>
+	<div class="main">
+		 <div class="copy-container">
+		  <h1>DMI Hot<span>Shop</span></h1>
+		  <img src="https://drive.google.com/uc?export=view&id=1XB6z8eLKzSEKFPqmHQXgyTbuYkRBjyst">
+		 </div>
+		  
+		<div class="contents">
+		
+			<h2>Kategori</h2>
+			
+			<div class="contents-item">
+			  <img src="https://drive.google.com/uc?export=view&id=1GLfjxzr2W-f3-doBg_77SAos5oGxvYVx" height="60">
+			  <p>Elektronik</p>
+			</div>
+			
+			<div class="contents-item">
+			  <img src="https://drive.google.com/uc?export=view&id=1mMwT0cCQSkEow05zAkEVF05tKOoVuY63" height="60">
+			  <p>Pulsa & Tagihan</p>
+			</div>
+			
+			<div class="contents-item">
+			  <img src="https://drive.google.com/uc?export=view&id=11q0VmvWoTvabmvkfHZDIjiFJnUwJpOIM" height="60">
+			  <p>Fashion</p>
+			</div>
+			
+			<div class="contents-item">
+			  <img src="https://drive.google.com/uc?export=view&id=155qOISWtoEzPLSgjJ6SWS2AeTEYA3zMp" height="60">
+			  <p>Supermarket</p>
+			</div>
+			
+			<div class="contents-item">
+			  <img src="https://drive.google.com/uc?export=view&id=1h8xg5mwU8mfmWGzp1-a1ERJ8_uf69qtU" height="60">
+			  <p>Elektronik</p>
+			</div>
+			
+			<div class="contents-item">
+			  <img src="https://drive.google.com/uc?export=view&id=18bLKXppYVB9DTAOiWEax0H_tEKawEnb5" height="60">
+			  <p>Elektronik</p>
+			</div>
+			
+			<div class="contents-item">
+			  <img src="https://drive.google.com/uc?export=view&id=1aXDl_7fkk4Ayosj4ZVvSR2uzTxIjLH14" height="60">
+			  <p>Elektronik</p>
+			</div>
+			
+		</div>
+		<div class="contents1">
+		
+			<h3>HotSale</h3>
+			
+			<div class="content-item">
+			  <img src="https://drive.google.com/uc?export=view&id=13sDyQLGVaFaANxsbuoEL78h_8Y2QpOJy" height="200">
+			   <p>110.000</p>
+			</div>
+			
+			<div class="content-item">
+			  <img src="https://drive.google.com/uc?export=view&id=1u1LwGYuTchG8Mt5oOaJIWEMBhrY0CVPo" height="200">
+			   <p>20.000</p>
+			</div>
+			
+			<div class="content-item">
+			  <img src="https://drive.google.com/uc?export=view&id=1DooHAaS_WThuvDj4ssMe-9hNFWL1xyzE" height="200">
+			  <p>11.000</p>
+			</div>
+			
+			<div class="content-item">
+			  <img src="https://drive.google.com/uc?export=view&id=1d4cDSxW_hzhryWvZXOiyz4mmqioVxqqF" height="200">
+			  <p>1.100</p>
+			</div>
+			
+			<div class="content-item">
+			  <img src="https://drive.google.com/uc?export=view&id=1wAYlBo4RO_fU-HFot2J3unhrco3uYxc_" height="200">
+			  <p>9.100</p>
+			</div>
+			
+			<div class="content-item">
+			  <img src="https://drive.google.com/uc?export=view&id=18raclHbMXHSistXf08Gxfb9XP9ErDuHe" height="200">
+			  <p>3.100</p>
+			</div>
+			
+			<div class="content-item">
+			  <img src="https://drive.google.com/uc?export=view&id=1wAYlBo4RO_fU-HFot2J3unhrco3uYxc_" height="200">
+			  <p>7.100</p>
+			</div>
+			
+			<div class="content-item">
+			  <img src="https://drive.google.com/uc?export=view&id=1ookBiueHHKVXDCj8NUoLsE36gKDiTiJl" height="200">
+			  <p>1.100</p>
+			</div>
+			
+		</div>
+		<div class="contents2">
+		
+		<i>Produk Lengkap Banyak Promo</i>
+		
+		<u>Setiap Saat Semua orang menyukai belanja online demi kenyamanan dan bonus harga murah. Sambil menikmati belanja di DMI Shop Mall, brand-brand terkenal seperti Oppo, Xiaomi, Samsung, Aukey, Abbott, Nivea, Unilever, Wardah, Elzatta Hijab, dan masih banyak lagi. Jangan sampai ketinggalan dengan promo-promo yang berlangsung setiap harinya. Shopee menawarkan berbagai produk dengan harga promosi khusus yang dijual oleh seller terbaik. Selain itu, Shopee juga akan membantu kamu mendapatkan barang untuk orang tersayang dengan melihat fitur “produk populer” sebagai referensi terbaikmu. Kemudian ada Flash Sale dengan promo dan diskon produk update tiap hari. Shopee meningkatkan pengalaman belanja online dengan harga murah sepanjang tahun! 
+		<i>Pusat Produk Gratis Ongkir di Indonesia</i>
+		<u>Nikmati Gratis Ongkir hanya di DMI Shop! Belanja sesuka hatimu tanpa harus khawatir akan biaya pengiriman! Sebagai penjual, kamu akan mendapatkan subsidi ongkir atas seluruh penjualanmu - Belanja online gratis ongkir dan Jualan di DMI Shop memang asik!</u>
+		</div>
+
+	</div>
+	<div class="footer">
+		<div class="footer-logo">DMI</div>
+		<div class="footer-list">
+		 <ul>
+			<li>DMI Shop</li>
+			<li>Belanja Berkah</li>
+		 </ul>
+		
+		</div>
+		<div class="footer-center"><center>copyright@AlfiRifqi</center></div> 
+	</div>
+  </body>
+</html> 
